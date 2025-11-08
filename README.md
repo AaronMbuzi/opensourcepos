@@ -30,19 +30,19 @@ The features include:
 - Cash up function.
 - Printing and emailing of receipts, invoices and quotations.
 - Barcode generation and printing.
-- Database of customers and suppliers
-- Multiuser with permission control
-- Reporting on sales, orders, expenses, inventory status and more
-- Receivings
-- Gift cards
-- Rewards
-- Restaurant tables
-- Messaging (SMS)
-- Multilanguage
-- Selectable Bootstrap based UI theme with Bootswatch
-- MailChimp integration
-- Optional Google reCAPTCHA to protect the login page from brute force attacks
-- GDPR ready
+- Database of customers and suppliers.
+- Multiuser with permission control.
+- Reporting on sales, orders, expenses, inventory status and more.
+- Receivings.
+- Gift cards.
+- Rewards.
+- Restaurant tables.
+- Messaging (SMS).
+- Multilanguage.
+- Selectable Bootstrap based UI theme with Bootswatch.
+- MailChimp integration.
+- Optional Google reCAPTCHA to protect the login page from brute force attacks.
+- GDPR ready.
 
 ## 🧪 Live Demo
 
